@@ -14,7 +14,7 @@ There are three top-level folders:
 
 This dApp is a simple application developed as part of the Alchemy University Dev. Bootcamp Solidity module. It allows a Depositor, which can be an individual or an entity, to make a deposit into an Escrow account and define a Beneficiary and an Arbitror.
 
-The deposited amount is securely stored on the blockchain. To unlock or transfer the funds to the Beneficiary, the Arbitror, who acts as an intermediary or trusted third party, can approve the transaction using their wallet.
+The deposited amount is securely stored on the blockchain. To unlock or transfer the funds to the Beneficiary, the Arbiter, who acts as an intermediary or trusted third party, can approve the transaction using their wallet.
 
 The dApp is implemented using Hardhat and runs on the local blockchain provided by Hardhat. The front-end interface is built using React.
 
